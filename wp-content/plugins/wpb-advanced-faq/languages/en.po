@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPB Advanced FAQ\n"
+"POT-Creation-Date: 2015-08-12 00:35+0600\n"
+"PO-Revision-Date: 2015-08-12 00:35+0600\n"
+"Last-Translator: wpbean <imranmodel35@gmail.com>\n"
+"Language-Team: WPBean <imranmodel35@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: inc\n"
+
+#: inc/wpb-af-cpt.php:22 inc/wpb-af-cpt.php:23 inc/wpb-af-cpt.php:43
+msgid "FAQ"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:24
+msgid "Parent FAQ:"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:25
+msgid "All FAQ's"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:26
+msgid "Add New FAQ"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:27
+msgid "Add New"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:28
+msgid "New FAQ"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:29
+msgid "Edit FAQ"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:30
+msgid "Update FAQ"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:31
+msgid "View FAQ"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:32
+msgid "Search FAQ"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:33
+msgid "Not found"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:34
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:44
+msgid "WPB Advanced FAQ"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:84
+msgid "Category"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:85
+msgid "All Categories"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:86
+msgid "Parent Category"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:87
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:88
+msgid "New Category Name"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:89
+msgid "Add New Category"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:90
+msgid "Edit Category"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:91
+msgid "Update Category"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:92
+msgid "View Category"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:93
+msgid "Separate categories with commas"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:94
+msgid "Add or remove categories"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:95 inc/wpb-af-cpt.php:147
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:96
+msgid "Popular Categories"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:97
+msgid "Search Categories"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:98 inc/wpb-af-cpt.php:150
+msgid "Not Found"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:136
+msgid "Tag"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:137
+msgid "All Tags"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:138
+msgid "Parent Tag"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:139
+msgid "Parent Tag:"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:140
+msgid "New Tag Name"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:141
+msgid "Add New Tag"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:142
+msgid "Edit Tag"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:143
+msgid "Update Tag"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:144
+msgid "View Tag"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:145
+msgid "Separate tags with commas"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:146
+msgid "Add or remove tags"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:148
+msgid "Popular Tags"
+msgstr ""
+
+#: inc/wpb-af-cpt.php:149
+msgid "Search Tags"
+msgstr ""
+
+#: inc/wpb-af-functions.php:18
+msgid "Category Shortcode"
+msgstr ""
+
+#: inc/wpb-af-functions.php:54
+msgid "Tag Shortcode"
+msgstr ""
+
+#: inc/wpb-af-shortcode.php:79
+msgid "<h2 class=\"text-center\">No Post Found For FAQ.</h2>"
+msgstr ""

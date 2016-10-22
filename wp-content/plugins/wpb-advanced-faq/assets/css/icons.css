@@ -1,0 +1,121 @@
+@font-face {
+	font-family: 'wpb-af-icons';
+	src:url('../fonts/wpb-af-icons.eot?stsi3i');
+	src:url('../fonts/wpb-af-icons.eot?#iefixstsi3i') format('embedded-opentype'),
+		url('../fonts/wpb-af-icons.ttf?stsi3i') format('truetype'),
+		url('../fonts/wpb-af-icons.woff?stsi3i') format('woff'),
+		url('../fonts/wpb-af-icons.svg?stsi3i#wpb-af-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-wpb-af-"], [class*=" icon-wpb-af-"] {
+	font-family: 'wpb-af-icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wpb-af-link:before {
+	content: "\e005";
+}
+.icon-wpb-af-heart:before {
+	content: "\e024";
+}
+.icon-wpb-af-search:before {
+	content: "\e036";
+}
+.icon-wpb-af-circle-plus:before {
+	content: "\e040";
+}
+.icon-wpb-af-circle-minus:before {
+	content: "\e041";
+}
+.icon-wpb-af-circle-check:before {
+	content: "\e042";
+}
+.icon-wpb-af-circle-cross:before {
+	content: "\e043";
+}
+.icon-wpb-af-square-plus:before {
+	content: "\e044";
+}
+.icon-wpb-af-square-minus:before {
+	content: "\e045";
+}
+.icon-wpb-af-square-check:before {
+	content: "\e046";
+}
+.icon-wpb-af-square-cross:before {
+	content: "\e047";
+}
+.icon-wpb-af-rewind:before {
+	content: "\e051";
+}
+.icon-wpb-af-fast-forward:before {
+	content: "\e055";
+}
+.icon-wpb-af-folder:before {
+	content: "\e059";
+}
+.icon-wpb-af-share:before {
+	content: "\e081";
+}
+.icon-wpb-af-marquee-plus:before {
+	content: "\e083";
+}
+.icon-wpb-af-marquee-minus:before {
+	content: "\e084";
+}
+.icon-wpb-af-tag:before {
+	content: "\e085";
+}
+.icon-wpb-af-star:before {
+	content: "\e093";
+}
+.icon-wpb-af-arrow-left:before {
+	content: "\e094";
+}
+.icon-wpb-af-arrow-right:before {
+	content: "\e095";
+}
+.icon-wpb-af-arrow-up:before {
+	content: "\e096";
+}
+.icon-wpb-af-arrow-down:before {
+	content: "\e097";
+}
+.icon-wpb-af-maximize:before {
+	content: "\e112";
+}
+.icon-wpb-af-minimize:before {
+	content: "\e113";
+}
+.icon-wpb-af-plus:before {
+	content: "\e114";
+}
+.icon-wpb-af-check:before {
+	content: "\e116";
+}
+.icon-wpb-af-cross:before {
+	content: "\e117";
+}
+.icon-wpb-af-menu:before {
+	content: "\e120";
+}
+.icon-wpb-af-inbox:before {
+	content: "\e122";
+}
+.icon-wpb-af-outbox:before {
+	content: "\e123";
+}
+.icon-wpb-af-open:before {
+	content: "\e128";
+}

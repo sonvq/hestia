@@ -1,0 +1,211 @@
+/**
+* css www.free-counter.org
+*/
+.img-counter {
+    cursor: pointer;
+    border:2px solid #d2d2d2;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align:middle;
+}
+
+.img-counter:hover {
+    border: 2px solid #7acaf7;
+    text-align: center;
+}
+
+.img-counter-active {
+    border: 2px solid #0096d6;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align:middle;
+    box-shadow: 0 0 4px 2px rgba(0, 150, 214, 0.7) inset;
+}
+
+.color_image {
+    display:none;
+}
+
+.image_counter_table td {
+    width: 150px;
+    text-align: center;
+}
+
+.stat_block {
+    text-align: center;
+    margin-top:50px;
+}
+
+.stat_title {
+    margin-top: 10px;
+    margin-bottom: 8px;
+    font-size: 20px;
+}
+
+.stat_all {
+    display: inline-block;
+}
+
+.stat {
+    width: 200px;
+}
+
+.inline {
+    float:left;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.hidden-class {
+    padding: 10px;
+    border: 1px solid #bd5a35;
+    font-size: 9px;
+    width: 50px;
+}
+
+.w-1 {
+    width: 5%; 
+}
+.w-2 {
+    width: 13%; 
+}
+.w-3 {
+    width: 7%; 
+}
+.w-4 {
+    width: 30%;
+}
+.moovdiv {
+
+}
+.moovdiv span.title {
+    font-size:18px;
+    text-align: center;
+    line-height: 24px;
+}
+
+.table-stat-moovdiv {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-spacing: 0;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+    left: 0px;
+    margin-top: 0;
+    padding: 10px 15px;
+    top: 0px;
+    width: 400px;
+}
+
+.table-stat-moovdiv tr td{
+    border-right: 0px;    
+    margin-bottom: 1px;
+    margin-top: 1px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    border-bottom:1px solid #D6D6D6;
+    padding: 5px;
+}
+div.progress {
+    overflow: hidden;
+    left: 1px;
+    width: 200px;
+    height: 15px;
+    border: 1px solid #2db0aa;
+    background: #dffffe;
+    margin:0;
+    padding: 0;
+}
+div.progress_load {
+    height: 13px;
+    border: 1px solid #dffffe;
+    background: #2db0aa;
+    margin:0;
+    padding: 0;
+    z-index: 999;
+}
+#page_item {
+    margin-bottom:3px;
+    float:left;
+}
+.block-export {
+    float: right;
+    margin-right: 20px;
+}
+.info {
+    width: 70%;
+    border: 0;
+}
+.info tr td{
+    border: 0;
+    padding: 2px;
+}
+.form-account {
+    margin-top: 30px;
+    margin-bottom : 40px;
+    border:5px solid #fff;
+    background: #ffffa5;
+    padding: 10px;
+    height: auto;
+    overflow:hidden;
+}
+.form-account-title {
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+.form-account-block {
+    margin-left: 20px;
+    float:left;
+    width: 40%;
+}
+.form-account-login {
+    margin-top: 10px;
+    margin-bottom : 40px;
+    border:5px solid #fff;
+    background: #ffffa5;
+    padding: 3px;
+    height: auto;
+    overflow:hidden;
+}
+
+.form-account-block-login {
+    margin-left: 10px;
+    width: 90%;
+
+}
+.form-account-info {
+    float:left;
+    width: 50%;
+    margin-left: 20px;
+}
+.b_2 {
+    background: url("button_ok.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #464646;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    left: 12px;
+    padding-left: 30px;
+    top: 60px;
+    padding-top: 4px;
+    padding-bottom : 5px;
+}
+.b-3 {
+    font-size: 22px;
+}
+.form-account-button {
+    margin-top: 21px;
+}
+.label-form {
+    margin-left: 6px;
+    font-size: 16px;
+}
+.last {
+    line-height: 18px;
+    margin-top: 9px;
+}
+td.last span.desc{
+      font-size:13px;
+      font-style: italic;
+}
